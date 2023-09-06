@@ -1,4 +1,4 @@
-import { newRectangle, Rectangle } from "./shapes/rectangle.js";
+import {Shape} from "./shpaes/shape.js";
 
 function newRenderer(rectangle: Rectangle) {
     return {
