@@ -9,6 +9,7 @@ public class Rectangle implements Shape {
         this.width = width;
     }
 
+    // @Override 繼承的方法
     public double getArea() {
         return height * width;
     }
